@@ -7,7 +7,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-cli-launch-darkly
+ember install @busy-web/ember-cli-launch-darkly
 ```
 
 
